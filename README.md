@@ -1,6 +1,6 @@
 # UNsystem-D3v3
 
-![Preview](https://github.com/jyang123-bit/UNsystem-D3v3/blob/master/d3v3.gif)
+![Preview](https://github.com/jyang123-bit/UNsystem-D3v3/blob/master/images/D3v3.gif)
 ---
 
 ### Working example for D3 version 3 in 
