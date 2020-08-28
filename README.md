@@ -8,8 +8,14 @@
 - [x] Expand
 - [x] Horizontal 
 
+Built with 
+----
+- [x] [D3.js](https://d3js.org) version 5.15
+- [x] [D3.js](https://d3js.org) version 3.5.17
+- [x] Json data format
+
 ### To be update documentation for 
 - [ ] code changes for D3 version 5 vs version 3
 
 ### Tree layout for version 3 can be view in [here](https://jyang123-bit.github.io/UNsystem-D3v3/)
-### Viewing D3 version 5 in [here](https://jyang123-bit.github.io/UNsystem-D3v5-/)
+### View D3 version 5 in [here](https://jyang123-bit.github.io/UNsystem-D3v5-/)
